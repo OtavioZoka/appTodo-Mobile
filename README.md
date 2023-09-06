@@ -8,5 +8,7 @@
 
 
 <h3>Imagens de ideia do app</h3>
-<img src='./assets/EmptyemptyTodo.png'>
-<img src='./assets/toDoList.png'>
+<div style="display: flex; justify-content: space-between;">
+<img src='./assets/EmptyemptyTodo.png' width="45%">
+<img src='./assets/toDoList.png' width="45%">
+</div>

@@ -5,3 +5,8 @@
 
 <h3>Link do Figma do desafio </h3>
 <a>https://www.figma.com/file/FDWj544PEaEA37uFur4kw1/ToDo-List-%E2%80%A2-Desafio-React-Native-(Copy)?type=design&node-id=101%3A96&mode=design&t=FscBsgle7ktks3so-1</a>
+
+
+<h3>Imagens de ideia do app</h3>
+<img src='./assets/EmptyemptyTodo.png'>
+<img src='./assets/toDoList.png'>
